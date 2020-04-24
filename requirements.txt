@@ -1,0 +1,9 @@
+opencv-python
+numpy
+jupyter
+jupyterlab
+numpy
+scipy
+pillow
+face-alignment
+matplotlib
