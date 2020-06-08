@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:1.12.0-cpu-py3
+FROM tensorflow/tensorflow:latest-devel7
 LABEL maintainer="olala7846@gmail.com"
 
 # Install dependencies
